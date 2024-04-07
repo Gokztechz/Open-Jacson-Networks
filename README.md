@@ -6,7 +6,7 @@ To find (a) average number of materials in the system (b) average number of mate
 ## Software required :
 Visual components and Python
 
-## Theory
+## Theory:
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
@@ -21,7 +21,7 @@ Visual components and Python
 
 
 
-## Program
+## Program:
 ```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -63,10 +63,10 @@ print("----------------------------------------------------------------------")
 ```
 
 
-## Output
+## Output:
 ![image](https://github.com/Gokztechz/Open-Jacson-Networks/assets/117667038/eeb3457b-38c2-4a3a-8c69-68a0f68276cc)
 
 
-## Result
-![image](https://github.com/Gokztechz/Open-Jacson-Networks/assets/117667038/ae81eada-9436-4f58-bce3-e3701db1ef14)
+## Result:
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
